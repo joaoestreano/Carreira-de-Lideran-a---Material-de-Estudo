@@ -24,12 +24,12 @@ Carreira de Liderança - Material de Estudo/
 │   ├── 05-Liderança/
 │   ├── 06-Mentoria para líderes/
 │   ├── 07-Gestão da mudança/
-│   └── 08-Gestão da mudança em projetos/  <-- Conteúdo Consolidado
+│   └── 08-Gestão da mudança em projetos/ 
 │
 ├── Nível 3 - Liderança Estratégica/
-│   ├── 01-Gestão de Stakeholders/          <-- Conteúdo Consolidado
-│   ├── 02-Design Organizacional/           <-- Conteúdo Consolidado
-│   └── 03-Liderança estratégica/           <-- Conteúdo Consolidado
+│   ├── 01-Gestão de Stakeholders/         
+│   ├── 02-Design Organizacional/           
+│   └── 03-Liderança estratégica/           
 │
 └── readme.md
 ```
